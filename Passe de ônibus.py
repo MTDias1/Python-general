@@ -48,3 +48,4 @@ if dias_restantes > 7:
     elif dia_fim == 7:
         print('Seu crédito acabará em um sábado')
 
+
